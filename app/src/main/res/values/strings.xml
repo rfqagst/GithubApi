@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GithubApiSub</string>
+    <string name="username">\@rfqagst</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="content_tab_home">Welcome Home</string>
+    <string name="content_tab_profile">Change your Profile here</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+    <string name="mode">Mode</string>
+    <string name="favorite">Favorite</string>
+    <string name="github_logo">Github Logo</string>
+    <string name="floating_favorite_user_button">Floating Favorite User Button</string>
+    <string name="search_user">Search User</string>
+    <string name="dark">Dark</string>
+    <string name="rifqi_agustia">Rifqi Agustia</string>
+</resources>
